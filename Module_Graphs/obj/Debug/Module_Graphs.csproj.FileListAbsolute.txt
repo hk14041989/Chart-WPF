@@ -1,0 +1,11 @@
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\bin\Debug\Module_Graphs.dll
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\bin\Debug\Module_Graphs.pdb
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs.csprojResolveAssemblyReference.cache
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\YTGraphWPFUC.baml
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\YTGraphWPFUC.g.cs
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs_MarkupCompile.cache
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs.g.resources
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs.Properties.Resources.resources
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs.csproj.GenerateResource.Cache
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs.dll
+D:\Users\KienPham\Desktop\ChartSample_Src\ChartSample_Src\Module_Graphs\obj\Debug\Module_Graphs.pdb
