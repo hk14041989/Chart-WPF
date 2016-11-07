@@ -1,0 +1,16 @@
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\WpfToolkitChart.exe
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\WpfToolkitChart.pdb
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\WPFToolkit.dll
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\WPFToolkit.pdb
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\MainWindow.baml
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\MainWindow.g.cs
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\App.g.cs
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart_MarkupCompile.cache
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.g.resources
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.Properties.Resources.resources
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.csproj.GenerateResource.Cache
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.exe
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.pdb
+D:\Users\KienPham\Desktop\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\obj\x86\Debug\WpfToolkitChart.csprojResolveAssemblyReference.cache
